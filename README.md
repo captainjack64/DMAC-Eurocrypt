@@ -2,7 +2,7 @@
 
 VirtualDub plug-in to simulate D/D2MAC transmission standard mainly used in Europe on satellite and cable networks. 
 
-Unlike PAL, MAC used time delay synchronisation with data, chroma and luma transmitted separately. Audio was essentially NICAM coded within the data area. The only difference between DMAC and D2MAC was the bandwidth requirement with D2MAC having half the bandwidth of DMAC.
+Unlike PAL, MAC used time delay synchronisation with data, chroma and luma transmitted separately. Audio was essentially NICAM coded within the data area. The only difference between DMAC and D2MAC was the bandwidth requirement for cable networks with D2MAC having half the bandwidth of DMAC.
 
 Encryption used here was line cut and rotate, similar to Videocrypt. There were two modes: single cut, where only chroma part was cut and rotated along with luma and double cut, where chroma and luma were cut and rotated separately.
 
